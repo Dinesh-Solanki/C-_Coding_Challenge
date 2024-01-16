@@ -1,7 +1,0 @@
-C:\Users\dines\OneDrive\Desktop\Phase 2\Program Practise\Order_Management\Order_Management\bin\Debug\Order_Management.exe.config
-C:\Users\dines\OneDrive\Desktop\Phase 2\Program Practise\Order_Management\Order_Management\bin\Debug\Order_Management.exe
-C:\Users\dines\OneDrive\Desktop\Phase 2\Program Practise\Order_Management\Order_Management\bin\Debug\Order_Management.pdb
-C:\Users\dines\OneDrive\Desktop\Phase 2\Program Practise\Order_Management\Order_Management\obj\Debug\Order_Management.csproj.AssemblyReference.cache
-C:\Users\dines\OneDrive\Desktop\Phase 2\Program Practise\Order_Management\Order_Management\obj\Debug\Order_Management.csproj.CoreCompileInputs.cache
-C:\Users\dines\OneDrive\Desktop\Phase 2\Program Practise\Order_Management\Order_Management\obj\Debug\Order_Management.exe
-C:\Users\dines\OneDrive\Desktop\Phase 2\Program Practise\Order_Management\Order_Management\obj\Debug\Order_Management.pdb
